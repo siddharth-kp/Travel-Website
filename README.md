@@ -11,8 +11,6 @@
 
 This Project is live at --------> **[https://travelyaari.herokuapp.com](https://travelyaari.herokuapp.com)**
 
-***[Mentor: Pankaj Kapoor](https://github.com/pankkap)***
-
 <hr />
 
       
